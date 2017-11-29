@@ -1,0 +1,20 @@
+[
+  {
+    "nombre": "José Paolo Guerrero Gonzáles",
+    "numero": 9,
+    "imagen": "https://img.elcomercio.pe/files/article_content_ec_fotos/files/crop/uploads/2017/06/10/593c42a9e47d2.r_1497121595222.0-76-1565-974.jpeg",
+    "perfil": {
+      "imagen": "https://1.bp.blogspot.com/-g46t-V97ngY/V19IT0a1-3I/AAAAAAAADjE/s_rc_o5XviMVHpgjPDZn4VoR5m2am9UfACLcB/s1600/Paolo%2BGuerrero%2B-%2BPeru.png",
+      "aka_nombre": "Paolo Guerrero",
+      "posicion": "Defensa izquierda"
+    }
+  },
+  {
+    "nombre": "Jefferson Farfán",
+    "imagen": "http://e.rpp-noticias.io/normal/2016/10/26/27493712jpg.jpg"
+  },
+  {
+    "nombre": "Christian Cueva",
+    "imagen": "https://img.elcomercio.pe/files/article_content_ec_fotos/uploads/2017/06/26/5951740d08e4f.jpeg"
+  }
+]

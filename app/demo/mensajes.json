@@ -1,0 +1,40 @@
+[
+  {
+    "mensaje": "Hola, estoy entrenado para responder preguntas relacionadas al futbol peruano y sobre el mundial de rusia 2018.",
+    "who": "ai"
+  },
+  {
+    "mensaje": "Cual es la ultima noticia acerca del mundial de futbol?",
+    "who": "persona"
+  },
+  {
+    "mensaje": null,
+    "who": "ai",
+    "tipo": "tarjeta",
+    "tarjeta": "noticia",
+    "noticia": {
+      "titulo": "Anthony Hudson renunció a la selección de Nueva Zelanda",
+      "resumen": "El técnico de la selección de Nueva Zelanda, Anthony Hudson, renunció tras la derrota ante Peru",
+      "imagen": "https://img.elcomercio.pe/files/article_content_ec_fotos/uploads/2017/11/23/5a16f1217750c.jpeg"
+    }
+  },
+  {
+    "mensaje": "Muestreame las ultimas noticias de futbol internacional.",
+    "who": "persona"
+  },
+  {
+    "mensaje": "Claro! esto es lo que encontre.",
+    "who": "ai"
+  },
+  {
+    "mensaje": null,
+    "who": "ai",
+    "tipo": "tarjeta",
+    "tarjeta": "noticia",
+    "noticia": {
+      "titulo": "Real Madrid vs. Fuenlabrada EN VIVO: 0-1 por Copa del Rey",
+      "resumen": "Real Madrid vs. Fuenlabrada EN VIVO ONLINE: juegan (3:30 p.m. por DirecTV) en el Santiago Bernabéu por la vuelta de la Copa del Rey. En la ida, los blancos ganaron 2-0",
+      "imagen": "https://img.elcomercio.pe/files/listing_ec_seccion_ultimas_noticias/files/crop/uploads/2017/11/28/5a1dcedba2d53.r_773905.119-0-785-382.jpeg"
+    }
+  }
+]
